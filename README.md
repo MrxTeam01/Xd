@@ -1,6 +1,6 @@
 rm -rf Xd
 
-git glone https://github.com/MrxTeam01/Xd.git
+git clone https://github.com/MrxTeam01/Xd.git
 
 cd Xd
 
