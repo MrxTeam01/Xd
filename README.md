@@ -6,4 +6,4 @@ cd Xd
 
 git pull
 
-python it.pyc
+python itx-Enc.pyc
